@@ -1,6 +1,6 @@
 import React from 'react';
 import SriLankaFlag from '../assets/download.png';
-import Background from '../assets/back.jpg';
+import Background from '../assets/Back.jpg';
 
 function HomePage() {
   return (
