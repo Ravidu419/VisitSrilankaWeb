@@ -17,14 +17,13 @@ function HomePage() {
         <h1 className="text-3xl font-bold mb-6">Welcome to Sri Lanka</h1>
        {/* Sri lankan flag */}
         <div className="h-75 flex flex-col md:flex-row items-center gap-6 bg-white/70 p-6 rounded-lg shadow-lg">
-          {/* Image */}
+          
           <img
             src={SriLankaFlag}
             alt="Sri Lanka Flag"
             className="w-64 h-auto rounded-lg shadow-md"
           />
 
-          {/* Description */}
           <p className="text-gray-800 leading-relaxed text-justify">
             <b>Sri Lanka</b> is a diverse island nation in the Indian Ocean, known for its
             beautiful scenery, including golden beaches, lush tea plantations, and
