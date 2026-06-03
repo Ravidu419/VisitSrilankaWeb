@@ -14,9 +14,6 @@ export default function App() {
     <Places />
     <AboutUs />
     
-     
-    
-
     </>
   )
 }
